@@ -1,6 +1,6 @@
 # Backend Flask with Login google create Tasks
 
-<!-- #### [Same Project with React](https://github.com/diegoperea20/Flask-React-Login-create-Tasks)  -->
+### [Fronted Nextjs login google auth](https://github.com/diegoperea20/Nextjs-and-Flask-with-Login-google-auth-create-Tasks)
 
 <p align="justify">
 Backend Flask for Nextjs fronted with next auth with credentials and google , with Flask REST API with sqlalchemy mysql where there is a login and register (you can change password and email, delete account) where each user can create titles and descriptions (you can edit and delete them) and in 'same' section the user can select the count of how many people have the same title he has created and see the emails of those people who have the same title.
