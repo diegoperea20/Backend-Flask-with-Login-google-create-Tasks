@@ -27,6 +27,7 @@ After entering the data correctly, click on the "Register" button.
 </p>
 
 
+
 <p align="justify">
 In login enter your username and password, click on the "Login" button.
 </p>
